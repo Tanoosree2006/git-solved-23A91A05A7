@@ -1,0 +1,6 @@
+- 05e250c: docs: Update README (Tanoosree2006, 20 minutes ago)
+- a8a31b6: docs: Add FAQ section (Tanoosree2006, 27 minutes ago)
+- f71ad71: merge: Resolve all conflicts between main and dev branches (Tanoosree2006, 55 minutes ago)
+- 0312c6f: updating main (Hanu Gupta, 6 days ago)
+- fadfd24: Revise README for DevOps Simulator project (Hanu Gupta, 6 days ago)
+- ae630eb: Initial commit (Hanu Gupta, 6 days ago)
